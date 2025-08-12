@@ -18,9 +18,9 @@ Here's how the dialog looks:
 
 <table>
   <tr>
-    <td><img src="screenshot/screenshot1.jpeg" alt="Preview 1" width="300"/></td>
+    <td><img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot1.jpeg" alt="Preview 1" width="300"/></td>
     <td style="width:20px;"></td> <!-- Spacer -->
-    <td><img src="screenshot/screenshot2.jpeg" alt="Preview 2" width="300"/></td>
+    <td><img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot2.jpeg" alt="Preview 2" width="300"/></td>
   </tr>
 </table>
 
