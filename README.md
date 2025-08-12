@@ -13,16 +13,11 @@ A lightweight Flutter package to automatically detect internet loss (including a
 ---
 
 ## Preview
-
 Here's how the dialog looks:
 
-<table>
-  <tr>
-    <td><img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot1.jpeg" alt="Preview 1" width="300"/></td>
-    <td style="width:20px;"></td> <!-- Spacer -->
-    <td><img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot2.jpeg" alt="Preview 2" width="300"/></td>
-  </tr>
-</table>
+![Preview 1](https://raw.githubusercontent.com/squarebits-sm/network-status-dialog-flutter-package/main/screenshot/screenshot1.jpeg)
+
+![Preview 2](https://raw.githubusercontent.com/squarebits-sm/network-status-dialog-flutter-package/main/screenshot/screenshot2.jpeg)
 
 ---
 
@@ -32,7 +27,7 @@ Here's how the dialog looks:
 
 ```yaml
 dependencies:
-  network_status_dialog: 0.0.8
+  network_status_dialog: 0.0.9
 ```
 
 ### 2. Import and Use
