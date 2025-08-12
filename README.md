@@ -1,4 +1,4 @@
-# 🛑 Network Status Dialog
+#Network Status Dialog
 
 A lightweight Flutter package to automatically detect internet loss (including airplane mode) and show a customizable, non-dismissible dialog — ensuring users never interact with the app while offline.
 
@@ -12,12 +12,12 @@ A lightweight Flutter package to automatically detect internet loss (including a
 
 ---
 
-## 🔍 Preview
+## Preview
 
 Here's how the dialog looks:
 
-<img src="screenshot/screenshot.jpg" alt="Network Dialog Preview" width="400" height="800"/>
-<img src="screenshot/screenshot2.jpeg" alt="Network Dialog Preview" width="400" height="800"/>
+<img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot.jpg" alt="Network Dialog Preview" width="400" height="800"/>
+<img src="https://github.com/squarebits-sm/network-status-dialog-flutter-package/blob/main/screenshot/screenshot2.jpeg" alt="Network Dialog Preview" width="400" height="800"/>
 
 ---
 
