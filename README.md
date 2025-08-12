@@ -32,7 +32,7 @@ Here's how the dialog looks:
 
 ```yaml
 dependencies:
-  network_status_dialog: 0.0.7
+  network_status_dialog: 0.0.8
 ```
 
 ### 2. Import and Use
