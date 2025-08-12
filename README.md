@@ -1,4 +1,4 @@
-#Network Status Dialog
+Network Status Dialog
 
 A lightweight Flutter package to automatically detect internet loss (including airplane mode) and show a customizable, non-dismissible dialog — ensuring users never interact with the app while offline.
 
