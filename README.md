@@ -16,8 +16,14 @@ A lightweight Flutter package to automatically detect internet loss (including a
 
 Here's how the dialog looks:
 
-<img src="screenshot/screenshot1.jpeg" alt="Network Dialog Preview" width="400" height="800"/>
-<img src="screenshot/screenshot2.jpeg" alt="Network Dialog Preview" width="400" height="800"/>
+<table>
+  <tr>
+    <td><img src="screenshot/screenshot1.jpeg" alt="Preview 1" width="300"/></td>
+    <td style="width:20px;"></td> <!-- Spacer -->
+    <td><img src="screenshot/screenshot2.jpeg" alt="Preview 2" width="300"/></td>
+  </tr>
+</table>
+
 ---
 
 ##  Getting Started
