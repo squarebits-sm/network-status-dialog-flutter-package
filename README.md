@@ -1,6 +1,10 @@
 Network Status Dialog
 
-A lightweight Flutter package to automatically detect internet loss (including airplane mode) and show a customizable, non-dismissible dialog — ensuring users never interact with the app while offline.
+A lightweight Flutter package to instantly detect network connectivity changes and show a beautiful customizable dialog when the device goes offline.
+When the connection is restored, the dialog automatically closes — no manual refresh needed.
+
+Perfect for apps where seamless user experience during network loss is critical.
+
 
 ## Features
 
@@ -13,9 +17,7 @@ A lightweight Flutter package to automatically detect internet loss (including a
 ---
 
 ## Preview
-Here's how the dialog looks:
-
-![Preview 1](https://raw.githubusercontent.com/squarebits-sm/network-status-dialog-flutter-package/main/screenshot/screenshot1.jpeg)
+Here's how the dialog looks
 
 ![Preview 2](https://raw.githubusercontent.com/squarebits-sm/network-status-dialog-flutter-package/main/screenshot/screenshot2.jpeg)
 
@@ -27,7 +29,7 @@ Here's how the dialog looks:
 
 ```yaml
 dependencies:
-  network_status_dialog: 0.0.9
+  network_status_dialog: 0.0.10
 ```
 
 ### 2. Import and Use

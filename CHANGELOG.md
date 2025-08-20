@@ -1,10 +1,17 @@
+## 0.0.10
+- Improved documentation for better pub.dev score.
+
 ## 0.0.9
+-
 
 ## 0.0.8
+-
 
 ## 0.0.7
+-
 
 ## 0.0.6
+-
 
 ### Fixed
 - Enhanced core logic to ensure stable functionality regardless of widget placement (Material wrapping issue resolved).

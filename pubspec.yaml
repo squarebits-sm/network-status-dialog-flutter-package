@@ -1,7 +1,8 @@
 name: network_status_dialog
 description: A Flutter package that shows an offline dialog when the user loses internet connection. Easily customizable with your own colors, text.
 homepage: https://github.com/squarebits-sm/network-status-dialog-flutter-package
-version: 0.0.9
+version: 0.0.10
+license: MIT
 
 environment:
   sdk: ^3.7.2
