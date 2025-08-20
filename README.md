@@ -29,7 +29,7 @@ Here's how the dialog looks
 
 ```yaml
 dependencies:
-  network_status_dialog: 0.0.10
+  network_status_dialog: 0.0.11
 ```
 
 ### 2. Import and Use
